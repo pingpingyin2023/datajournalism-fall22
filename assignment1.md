@@ -4,3 +4,4 @@
 ## Clarity and accuracy:5
 It's easy to immediately identify the central insight the reporter was trying to communicate.  
 The central insight was vaccine distribution centers were more common in white, affluent neighborhoods than in communities of color in Texas's largest metropolitan areas.  
+The core information was also concisely included in both headline and subtitle.  
