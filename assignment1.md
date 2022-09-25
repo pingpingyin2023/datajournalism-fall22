@@ -1,6 +1,6 @@
 # Assignment 1
 ### *By Pingping Yin* 
-## Data Driven Investigation Critique  
+## I. Data Driven Investigation Critique  
 **Original Story: Advocates Worry Vaccines Will Be Out Of Reach For Black and Hispanic Neighborhoods Devastated By COVID-19**  [link text](https://www.texastribune.org/2021/01/09/texas-coronavirus-vaccine-racial-inequality/)
 ### Clarity and accuracy 
 1. I can immediately identify the central insight the reporter was trying to communicate.  5  
@@ -30,4 +30,4 @@ The graphic was executed at a high degree of quality. 5
   ◆The graphic concentrated the general idea and investigation results that the reporters mostly wanted to communicate. Rather than randomly interviewing residents in different areas, using a data graphic was more persuasive and distinct. Readers could catch the overall vaccine distribution sites and tell the disparity by a cursory glance at it.  
   ◆Effectiveness is 5.  
 
-## Final Project Pitch Note
+## II.Final Project Pitch Note
