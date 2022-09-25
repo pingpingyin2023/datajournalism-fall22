@@ -17,11 +17,11 @@ The graphic was executed at a high degree of quality. 5
   ◆ The graphic clearly presented that vaccination distribution cites are more common in majority non-Hispanic white neighborhoods.  
   ◆ It's said in the story that the death and infection rates of COVID in brown and black communities are higher than the white, affluent neighborhoods. But the vaccines provided there were insufficient. This conflict was not illustrated by the graphic.  
 ## Type and color 
-1.Type 5  
+1. Type 5  
   ◆The overall layout of the graphic was clear and distinct, all the elements belonged together.  
   ◆The title, the brief paragraph and the gradient color bar on the top concisely generalized the central idea of the graphic, as well as the results of the investigation. Those elements effectively guided the readers to understand how to read it.  
   ◆The four counties were laid out as a table, explicitly showing the vaccination distribution sites in areas with different demographics.  
-2.Color 5
+2. Color 5  
   ◆The graphic used contrasting colors ranging from dark orange to steel blue. Different colors represented different percentages of people of color and non-Hispanic white. The colors looked comfortable, implied to the colors of skin and eyes of residents in different areas.  
   ◆Data sources were laid out at the bottom with a light grey letter color, which can be distinguished from other main elements and would not distract readers' attention.  
   ◆The vaccine distribution site was presented as hollow circle, which was good It didn't occupy too much space as the graphic size was limited.  
