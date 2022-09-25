@@ -32,7 +32,7 @@ The graphic was executed at a high degree of quality. 5
 
 ## II.Final Project Pitch Note
 ### The Question I want to answer
-I would like to conduct a news story to investigate __how many voters who were previously not interested in the mid-term election were eventually determined to vote because of the Roe v Wade overturning decision of the Supreme Court?__  
+I would like to conduct a news story to investigate *__how many voters who were previously not interested in the mid-term election were eventually determined to vote because of the Roe v Wade overturning decision of the Supreme Court?__*  
 ### What data will be available?
 1. How many voters registered after June 24th when the Roe’s overturning decision was released?
 2. What are the distinctive characters of these voters?
