@@ -12,3 +12,8 @@
    ◆ I don't have question about the accuracy of the data.  
    ◆ The reporters provided two sources of the data, the Texas Department of State Health Services and the Census Bureau. I think these two sources are precisely what they should refer to for the story. I cannot come up with ideas for more sources because it was a simple fact from my perspective.  
    ◆ The graphic only presented four counties of Texas. It did not explain why the reporters selected these four as typical examples. 
+## Quality
+The graphic was executed at a high degree of quality. 5  
+  ◆ The graphic clearly presented that vaccination distribution cites are more common in majority non-Hispanic white neighborhoods.  
+  ◆ It's said in the story that the death and infection rates of COVID in brown and black communities are higher than the white, affluent neighborhoods. But the vaccines provided there were insufficient. This conflict was not illustrated by the graphic. 
+  
