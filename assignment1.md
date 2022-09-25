@@ -45,5 +45,5 @@ After the mid-term, readers may be eager to know which elements affect the ultim
 2. Staff of key states board of election
 3. Political scientists, researchers and analysts
 ### Anything else?
-What else are the newly registered voters concerned about besides the abortion ruling? Is the Supreme Court's decision the only element they care for in the mid-term election?  
+  What else are the newly registered voters concerned about besides the abortion ruling? Is the Supreme Court's decision the only element they care for in the mid-term election?  
 *Well, not yet have a very explicit idea. Will add if come up with any afterward.*
