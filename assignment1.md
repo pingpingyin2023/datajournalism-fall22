@@ -31,3 +31,12 @@ The graphic was executed at a high degree of quality. 5
   ◆Effectiveness is 5.  
 
 ## II.Final Project Pitch Note
+### The Question I want to answer
+I would like to conduct a news story to investigate __how many voters who were previously not interested in the mid-term election were eventually determined to vote because of the Roe v Wade overturning decision of the Supreme Court?__  
+### What data will be available?
+1. How many voters registered after June 24th when the Roe’s overturning decision was released?
+2. What are the distinctive characters of these voters?
+3. How many states have voter registrations increased significantly after June 24? What are the mid-term election results in these states?
+### What is the news hook? What makes it timely?
+After the mid-term, readers may be eager to know which elements affect the ultimate mid-term results and how profoundly they do. Some analysts predicted Roe’s overturning decision would greatly help Democrats garner more votes. I want to know whether it is the truth through investigative interviews and data analysis.
+
