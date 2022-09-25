@@ -26,5 +26,5 @@ The graphic was executed at a high degree of quality. 5
   ◆Data sources were laid out at the bottom with a light grey letter color, which can be distinguished from other main elements and would not distract readers' attention.  
   ◆The vaccine distribution site was presented as the hollow circle, which was good. Hollow circles didn't occupy too much space as the graphic size was limited.  
 ## Creativity 
-  ◆The graphic concentrated the general idea and investigation results that the reporters mostly wanted to communicate. Rather than randomly interviewing residents in different areas, using a data graphic was more persuasive and distinct. Readers could catch the overall vaccine distribution sites and tell the disparity by a cursory glance at it. 
+  ◆The graphic concentrated the general idea and investigation results that the reporters mostly wanted to communicate. Rather than randomly interviewing residents in different areas, using a data graphic was more persuasive and distinct. Readers could catch the overall vaccine distribution sites and tell the disparity by a cursory glance at it.  
   ◆Effectiveness is 5.  
