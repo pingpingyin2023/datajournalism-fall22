@@ -1,7 +1,7 @@
 # Assignment 3
 ### *By Pingping Yin*  
 I think there are several items below for the dataset we selected for our final project that should be paid close attention to in case the bad data contaminates our analysis.  
-Take the Syracuse University’s [Transactional Records Access Clearinghouse](https://trac.syr.edu/immigration/detentionstats/facilities.htm) for example.  
+Take the Syracuse University’s [Transactional Records Access Clearinghouse](https://trac.syr.edu/immigration/detentionstats/facilities.html) for example.  
 ## 1.Values are missing  
 Many detention facilities' **Current Guaranteed Minimum** column are left blank. Does it mean that the data for these detention facilities were not collected? We should figure out why the information is missing. We should ask the source what the absence of this value means.  
 ## 2.Zeros replace missing values  
